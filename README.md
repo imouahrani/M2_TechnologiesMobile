@@ -21,3 +21,14 @@
 ![Filter](Screens/4.PNG)
 
 ## ------------------------- TP 6 -------------------------
+### Characters
+![Characters](Screens/5.PNG)
+
+### Episodes
+![Episodes](Screens/6.PNG)
+
+### Quotes
+![Quotes](Screens/7.PNG)
+
+### Deaths
+![Deaths](Screens/8.PNG)
