@@ -1,4 +1,4 @@
-# *************** M2_TechnologiesMobile  *************** 
+# *************** M2 Technologie sMobile  *************** 
 
 ## Réalisé par :
  ### - Ilyas BENSABER
